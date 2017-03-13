@@ -1,4 +1,4 @@
-baseurl = "http://localhost/~simon/arg/"
+baseurl = "http://146.176.251.13/"
 languageCode = "en-us"
 title = "ARG@ENU"
 theme = "beautifulhugo"
