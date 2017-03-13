@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ARG@ENU</title>
+    <link>http://localhost/~simon/arg/index.xml</link>
+    <description>Recent content on ARG@ENU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>s.wells@napier.ac.uk</managingEditor>
+    <webMaster>s.wells@napier.ac.uk</webMaster>
+    <lastBuildDate>Mon, 05 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost/~simon/arg/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>First post!</title>
+      <link>http://localhost/~simon/arg/post/2015-01-04-first-post/</link>
+      <pubDate>Mon, 05 Jan 2015 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://localhost/~simon/arg/post/2015-01-04-first-post/</guid>
+      <description>&lt;p&gt;This is my first post, how exciting!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ALIAS</title>
+      <link>http://localhost/~simon/arg/page/project/alias/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://localhost/~simon/arg/page/project/alias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adamantium</title>
+      <link>http://localhost/~simon/arg/page/project/adamantium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://localhost/~simon/arg/page/project/adamantium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Affiliate Members</title>
+      <link>http://localhost/~simon/arg/page/people/affiliates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://localhost/~simon/arg/page/people/affiliates/</guid>
+      <description>&lt;p&gt;We like to work with various folk and are actively working with&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.its.leeds.ac.uk/people/k.pangbourne&#34;&gt;Dr Kate Pangbourne&lt;/a&gt; (EPSRC Living with Environmental Change Fellow @ the University of Leeds)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www-users.cs.york.ac.uk/~tommy/&#34;&gt;Dr Tangming &amp;ldquo;Tommy&amp;rdquo; Yuan&lt;/a&gt; (University of York)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ArgDB</title>
+      <link>http://localhost/~simon/arg/page/project/argdb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://localhost/~simon/arg/page/project/argdb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Argument Cartograpy</title>
+      <link>http://localhost/~simon/arg/page/project/argument-cartography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://localhost/~simon/arg/page/project/argument-cartography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dana Khartabil</title>
+      <link>http://localhost/~simon/arg/page/people/dana-khartabil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://localhost/~simon/arg/page/people/dana-khartabil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Datasets</title>
+      <link>http://localhost/~simon/arg/page/outputs/datasets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://localhost/~simon/arg/page/outputs/datasets/</guid>
+      <description>
+
+&lt;h4 id=&#34;sustainable-transport-communications-dataset-stcd&#34;&gt;Sustainable Transport Communications Dataset (STCD)&lt;/h4&gt;
+
+&lt;h4 id=&#34;climate-change-argument-dataset-ccad&#34;&gt;Climate Change Argument Dataset (CCAD)&lt;/h4&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MonkeyPuzzle</title>
+      <link>http://localhost/~simon/arg/page/project/monkeypuzzle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://localhost/~simon/arg/page/project/monkeypuzzle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Past Members</title>
+      <link>http://localhost/~simon/arg/page/people/past/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://localhost/~simon/arg/page/people/past/</guid>
+      <description>&lt;p&gt;Sometimes folk stay for a little while then move on to better things.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Adam Kisala&lt;/li&gt;
+&lt;li&gt;Amantle Craviolatti&lt;/li&gt;
+&lt;li&gt;John Douglas&lt;/li&gt;
+&lt;li&gt;Roberto Franesco La Greca&lt;/li&gt;
+&lt;li&gt;Hristo Meshinski&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://localhost/~simon/arg/page/outputs/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://localhost/~simon/arg/page/outputs/publications/</guid>
+      <description>
+
+&lt;h3 id=&#34;papers&#34;&gt;Papers&lt;/h3&gt;
+
+&lt;ol reversed&gt;
+
+                
+
+
+                &lt;li&gt;
+                 &lt;p&gt;&lt;a id=&#34;yuan_2016_safety&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;T. Yuan, S. Manandhar, T. Kelly, and S. Wells (2016) &#34;&lt;em&gt;Automatically Detecting Fallacies in System Safety Arguments&lt;/em&gt;&#34;&lt;br /&gt;
+                 &lt;a href=&#34;https://link.springer.com/book/10.1007%2F978-3-319-46218-9&#34;&gt;Principles and Practice of Multi-Agent Systems&lt;/a&gt;, pp. 47-59, LNCS 9935, Springer&lt;br /&gt; 
+                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;https://dx.doi.org/10.1007/978-3-319-46218-9_4&#34;&gt;doi:10.1007/978-3-319-46218-9_4&lt;/a&gt; | &lt;a href=&#34;assets/pdf/yuan_2016_cmna+lncs.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]&lt;/p&gt;
+                &lt;/li&gt;
+
+                &lt;li&gt;
+                 &lt;p&gt;&lt;a id=&#34;farrenkopf_2016_jasss&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;T. Farrenkopf, M. Guckert, N. Urquhart, &amp; S. Wells (2016) &#34;&lt;em&gt;&lt;a href=&#34;http://jasss.soc.surrey.ac.uk/19/4/14.html&#34;&gt;Ontology Based Business Simulations&lt;/a&gt;&lt;/em&gt;&#34;&lt;br /&gt;
+                &lt;a href=&#34;http://jasss.soc.surrey.ac.uk&#34;&gt;The Journal of Artifical Societies and Social Simulation (JASSS)&lt;/a&gt;, 19(4).&lt;br /&gt; 
+                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;https://dx.doi.org/10.18564/jasss.3266&#34;&gt;doi:10.18564/jasss.3266&lt;/a&gt; | &lt;a href=&#34;assets/pdf/farrenkopf_2016_jasss.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ] &lt;/p&gt;
+                &lt;/li&gt; 
+
+
+                &lt;li&gt;
+                 &lt;p&gt;&lt;a id=&#34;wells_2016_combinatorial&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells (2016) &#34;&lt;em&gt;Combinatorial Dialogue Games in Strategic Argumentation&lt;/em&gt;&#34;&lt;br /&gt;
+                 Argumentation and Reasoned Action, Proceedings of the &lt;a href=&#34;http://ecargument.org/&#34;&gt;1st European Conference on Argumentation&lt;/a&gt;, Lisbon 2015, &lt;a href=&#34;https://www.amazon.co.uk/Argumentation-Reasoned-Action-Dima-Mohammed/dp/1848902123/&#34;&gt;volume 2&lt;/a&gt;, Studies in Logic and Argumentation 63, chapter 67, pp. 1045-1063, College Publications.&lt;br /&gt; 
+                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;assets/pdf/wells_2016b_eca.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ] &lt;/p&gt;
+                &lt;/li&gt; 
+
+                &lt;li&gt;
+                 &lt;p&gt;&lt;a id=&#34;wells_2016_sustainable&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells &amp; K. Pangbourne (2016) &#34;&lt;em&gt;Using Argumentation Within Sustainable Transport Communication&lt;/em&gt;&#34;&lt;br /&gt;
+                 Argumentation and Reasoned Action, Proceedings of the &lt;a href=&#34;http://ecargument.org/&#34;&gt;1st European Conference on Argumentation&lt;/a&gt;, Lisbon 2015, &lt;a href=&#34;https://www.amazon.co.uk/Argumentation-Reasoned-Action-Dima-Mohammed/dp/1848902115/&#34;&gt;volume 1&lt;/a&gt;, Studies in Logic and Argumentation 62, chapter 34, pp. 781-801, College Publications.&lt;br /&gt;
+                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;assets/pdf/wells_2016a_eca.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ] &lt;/p&gt;
+                &lt;/li&gt;
+                
+                
+                &lt;li&gt;
+                 &lt;p&gt;&lt;a id=&#34;khartabil_2016_euroviz&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;D. Khartabil, S. Wells, &amp; J. Kennedy (2016) &#34;&lt;em&gt;Large-scale Argument Visualization (LSAV)&lt;/em&gt;&#34;&lt;br /&gt;
+                 18th EG/VGTC Conference on Visualization (&lt;a href=&#34;http://www.cs.rug.nl/jbi/eurovis2016/&#34;&gt;EuroVis16&lt;/a&gt;), Groningen, Netherlands&lt;br /&gt; 
+                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;Abstract: [ &lt;a href=&#34;assets/pdf/khartabil_2016_euroviz.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]&lt;/p&gt;
+                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;Poster: [ &lt;a href=&#34;https://dx.doi.org/10.6084/m9.figshare.3459326.v1&#34;&gt;doi:10.6084/m9.figshare.3459326.v1&lt;/a&gt; | &lt;a href=&#34;assets/pdf/khartabil_2016_euroviz.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]&lt;/p&gt;
+                &lt;/li&gt;
+
+                &lt;li&gt;
+                 &lt;p&gt;&lt;a id=&#34;farrenkopf_2016_paams&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;T. Farrenkopf, M. Guckert, N. Urquhart, &amp; S. Wells (2016) &#34;&lt;em&gt;Demo Paper: AGADE&lt;/em&gt;&#34;&lt;br /&gt;
+                 &lt;a href=&#34;https://www.springer.com/gp/book/9783319462172&#34;&gt;Advances in Practical Applications of Scalable Multi-agent Systems. The PAAMS Collection&lt;/a&gt;, Springer International Publishing.&lt;br /&gt; 
+                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;https://dx.doi.org/10.1007/978-3-319-39324-7_25&#34;&gt;doi:10.1007/978-3-319-39324-7_25&lt;/a&gt; | &lt;a href=&#34;assets/pdf/farrenkopf_2016_paams.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]&lt;/p&gt;
+                &lt;/li&gt;
+
+                &lt;li&gt;
+                 &lt;p&gt;&lt;a id=&#34;wells_2015_alias&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells &amp; R. La Greca (2015) &#34;&lt;em&gt;Introducing ALIAS&lt;/em&gt;&#34;&lt;br /&gt;
+                 Proceedings of the 15th International Workshop on Computation Models of Natural Argument(&lt;a href=&#34;http://www.cmna.info/CMNA15&#34;&gt;CMNA15&lt;/a&gt;), Bertinoro, Italy.&lt;br /&gt; 
+                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;assets/pdf/wells_2015_cmna.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]&lt;/p&gt;
+                &lt;/li&gt;
+
+                &lt;li&gt;
+                 &lt;p&gt;&lt;a id=&#34;yuan_2015_safety&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;T. Yuan, S. Manandhar, T. Kelly, and S. Wells (2015) &#34;&lt;em&gt;Automatically Detecting Fallacies in System Safety Arguments&lt;/em&gt;&#34;&lt;br /&gt;
+                 Proceedings of the 15th International Workshop on Computation Models of Natural Argument(&lt;a href=&#34;http://www.cmna.info/CMNA15&#34;&gt;CMNA15&lt;/a&gt;), Bertinoro, Italy.&lt;br /&gt; 
+                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;assets/pdf/yuan_2015_cmna.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]&lt;/p&gt;
+                &lt;/li&gt;
+
+                &lt;li&gt;
+                 &lt;p&gt;&lt;a id=&#34;wells_2015_combinatorial&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells (2015) &#34;&lt;em&gt;Combinatorial Dialogue Games in Strategic Argumentation&lt;/em&gt;&#34;&lt;br /&gt;
+                 Paper Abstract presented at the 1st European Conference on Argumentation: Argumentation and Reasoned Action (&lt;a href=&#34;http://ecargument.org/&#34;&gt;ECA15&lt;/a&gt;)&lt;br /&gt; 
+                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;assets/pdf/wells_2015a_eca_abstract.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ] &lt;/p&gt;
+                &lt;/li&gt;
+
+                &lt;li&gt;
+                 &lt;p&gt;&lt;a id=&#34;wells_2015_sustainable&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells &amp; K. Pangbourne (2015) &#34;&lt;em&gt;Using Argumentation Within Sustainable Transport Communication&lt;/em&gt;&#34;&lt;br /&gt;
+                 Paper Abstract presented at the 1st European Conference on Argumentation: Argumentation and Reasoned Action (&lt;a href=&#34;http://ecargument.org/&#34;&gt;ECA15&lt;/a&gt;)&lt;br /&gt; 
+                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;assets/pdf/wells_2015b_eca_abstract.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ] &lt;/p&gt;
+                &lt;/li&gt;
+
+                &lt;li&gt;
+                 &lt;p&gt;&lt;a id=&#34;wells_2014_mining&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells, (2014), &#34;&lt;em&gt;Argument Mining: Was Ist Das?&lt;/em&gt;&#34;&lt;br /&gt;
+                 Proceedings of the 14th International Workshop on Computational Models of Natural Argument (&lt;a href=&#34;http://www.cmna.info/CMNA14&#34;&gt;CMNA14&lt;/a&gt;), Krakow, Poland.&lt;br /&gt; 
+                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;assets/pdf/wells_2014_cmna.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
+                &lt;/p&gt;&lt;/li&gt;
+
+                &lt;li&gt;
+                 &lt;p&gt;&lt;a id=&#34;yuan_2014_cmna&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;T, Yuan, S. Manandhar, and S. Wells, (2014), &#34;&lt;em&gt;Using Code Generation to Build a Platform for Developing and Testing Dialogue Games&lt;/em&gt;&#34;&lt;br /&gt;
+                 Proceedings of the 14th International Workshop on Computational Models of Natural Argument (&lt;a href=&#34;http://www.cmna.info/CMNA14&#34;&gt;CMNA14&lt;/a&gt;), Krakow, Poland.&lt;br /&gt; 
+                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;assets/pdf/yuan_2014_cmna.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
+                &lt;/p&gt;&lt;/li&gt;
+
+
+                &lt;li&gt;
+                &lt;p&gt;&lt;a id=&#34;wells_2014_eai&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells, H. Kotkanen, M. Schlafli, S. Gabrielli, J. Masthoff, A. Jylha, P. Forbes (2014), &#34;&lt;em&gt;Towards an Applied Gamification Model for Tracking, Managing, &amp; Encouraging Sustainable Travel Behaviours&lt;/em&gt;&#34;&lt;br /&gt;
+                 &lt;a href=&#34;http://eudl.eu/journal/amsys&#34;&gt;EAI Endorsed Transactions on Ambient Systems&lt;/a&gt;, vol. 14 (4).&lt;br /&gt; 
+                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://dx.doi.org/10.4108/amsys.1.4.e2&#34;&gt;doi:10.4108/amsys.1.4.e2&lt;/a&gt; | &lt;a href=&#34;assets/pdf/wells_2014_eai.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]&lt;/p&gt;
+                &lt;/li&gt;
+
+
+                &lt;li&gt;
+                &lt;p&gt;&lt;a id=&#34;forbes_2014_eai&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;P. J. Forbes, S. Gabrielli, R. Maimone, J. Masthoff, S. Wells, A. Jylha (2014), &#34;&lt;em&gt;Towards using Segmentation-based Techniques to Personalize Mobility Behavior Interventions&lt;/em&gt;&#34;&lt;br /&gt;
+                 &lt;a href=&#34;http://eudl.eu/journal/amsys&#34;&gt;EAI Endorsed Transactions on Ambient Systems&lt;/a&gt;, vol. 14 (4).&lt;br /&gt; 
+                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://dx.doi.org/10.4108/amsys.1.4.e4&#34;&gt;doi:10.4108/amsys.1.4.e4&lt;/a&gt; | &lt;a href=&#34;assets/pdf/forbes_2014_eai.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]&lt;/p&gt;
+                &lt;/li&gt;
+
+                &lt;li&gt;
+                &lt;p&gt;&lt;a id=&#34;gabrielli_2014_chb&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Gabrielli, P. Forbes,  A. Jylha, S. Wells, M. Siiren, S. Hemminki, P. Nurmi, R. Maimone, J. Masthoff, G. Jaccuci (2014), &#34;&lt;em&gt;Design challenges in motivating change for sustainable urban mobility&lt;/em&gt;&#34;&lt;br /&gt;
+                 &lt;a href=&#34;http://www.sciencedirect.com/science/journal/07475632&#34;&gt;Computers in Human Behavior&lt;/a&gt;, vol. 41, pp. 416-423, Elsevier. &lt;br /&gt; 
+                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://dx.doi.org/10.1016/j.chb.2014.05.026&#34;&gt;doi:10.1016/j.chb.2014.05.026&lt;/a&gt; ]&lt;/p&gt;
+                &lt;/li&gt;
+
+                &lt;li&gt;
+                &lt;p&gt;&lt;a id=&#34;wells_2014_usciamo&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells, H. Kotkanen, M. Schlafli, S. Gabrielli, J. Masthoff, A. Jylha, P. Forbes (2014), &#34;&lt;em&gt;Towards an Applied Gamification Model for Tracking, Managing, &amp; Encouraging Sustainable Travel Behaviours&lt;/em&gt;&#34;&lt;br /&gt;
+                 Proceedings of the &lt;a href=&#34;https://coop2014.wordpress.com/workshops/&#34;&gt;USCIAMO: Urban Sustainable, CollaboratIve, and Adaptive MObility Workshop&lt;/a&gt; hosted at the 11th International Conference on the Design of Cooperative Systems (&lt;a href=&#34;https://coop2014.wordpress.com/&#34;&gt;COOP2014&lt;/a&gt;), Nice, France.&lt;br /&gt; 
+                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;assets/pdf/wells_2014_usciamo.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]&lt;/p&gt;
+                &lt;/li&gt;
+
+
+                &lt;li&gt;
+                &lt;p&gt;&lt;a id=&#34;forbes_2014_usciamo&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;P. J. Forbes, S. Gabrielli, R. Maimone, J. Masthoff, S. Wells, A. Jylha (2014), &#34;&lt;em&gt;Towards using Segmentation-based Techniques to Personalize Mobility Behavior Interventions&lt;/em&gt;&#34;&lt;br /&gt;
+                 Proceedings of the &lt;a href=&#34;https://coop2014.wordpress.com/workshops/&#34;&gt;USCIAMO: Urban Sustainable, CollaboratIve, and Adaptive MObility Workshop&lt;/a&gt; hosted at the 11th International Conference on the Design of Cooperative Systems (&lt;a href=&#34;https://coop2014.wordpress.com/&#34;&gt;COOP2014&lt;/a&gt;), Nice, France.&lt;br /&gt; 
+                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;assets/pdf/forbes_2014_usciamo.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]&lt;/p&gt;
+                &lt;/li&gt;
+
+
+                &lt;li&gt;
+                &lt;p&gt;&lt;a id=&#34;wells_2014_slgr&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells (2014), &#34;&lt;em&gt;Supporting Argumentation Schemes in Argumentative Dialogue Games&lt;/em&gt;&#34;&lt;br /&gt;
+                &lt;a href=&#34;http://logika.uwb.edu.pl/studies/&#34;&gt;Studies in Logic, Grammar and Rhetoric (SLGR)&lt;/a&gt; special issue on the &lt;a href=&#34;http://logika.uwb.edu.pl/studies/vol49.html&#34;&gt;Pragmatics and Dialectics of Argument, vol. 36 (1), pp. 171-191&lt;/a&gt;, De Gruyter, CC BY-NC-ND 3.0.&lt;br /&gt; 
+                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://dx.doi.org/10.2478/slgr-2014-0009&#34;&gt;doi:10.2478/slgr-2014-0009&lt;/a&gt; | &lt;a href=&#34;http://logika.uwb.edu.pl/studies/vol49.html&#34;&gt;pdf&lt;/a&gt; | &lt;a href=&#34;assets/pdf/wells_2014_slgr.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
+                &lt;/p&gt;&lt;/li&gt;
+
+
+                &lt;li&gt;
+                &lt;p&gt;&lt;a id=&#34;jylha_2013_de&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;A. Jylha, L. Haverinen, S. Kaipiainen, G. Jacucci, P. Forbes, J. Masthoff, S. Wells, J. Finnegan, and L. Telesca (2013), &#34;&lt;em&gt;Designing a Sustainable Mobility System for Shared Transportation&lt;/em&gt;&#34;&lt;br /&gt;
+                 Proceedings of the 4th Annual Digital Economy All Hands Conference, MediaCityUK, Salford, U.K.&lt;br /&gt; 
+                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://de2013.org/wp-content/uploads/2013/09/de2013_submission_95.pdf&#34;&gt;pdf (DE Archive)&lt;/a&gt; | &lt;a href=&#34;assets/pdf/jylha_2013_de.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
+                &lt;/p&gt;&lt;/li&gt;
+
+
+                &lt;li&gt;
+                &lt;p&gt;&lt;a id=&#34;forbes_2013_de&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;P. Forbes, S. Wells, and J. Masthoff (2013), &#34;&lt;em&gt;Ensuring Accessibility in SUPERHUB: a Multimodal Urban Mobility Platform for European cities&lt;/em&gt;&#34;&lt;br /&gt;
+                 Proceedings of the 4th Annual Digital Economy All Hands Conference, MediaCityUK, Salford, U.K.&lt;br /&gt; 
+                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://de2013.org/wp-content/uploads/2013/09/de2013_submission_77.pdf&#34;&gt;pdf (DE Archive)&lt;/a&gt; | &lt;a href=&#34;assets/pdf/forbes_2013_de.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
+                &lt;/p&gt;&lt;/li&gt;
+
+                &lt;li&gt;
+                &lt;p&gt;&lt;a id=&#34;wells_2013_bcshci&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells, P. Forbes, J. Masthoff, S. Gabrielli and A. Jylha (2013), &#34;&lt;em&gt;SUPERHUB: Integrating Digital Behaviour Management into a Novel Sustainable Urban Mobility System&lt;/em&gt;&#34;&lt;br /&gt;
+                 Proceedings of the 27th International British Computer Society Human Computer Inter- action Conference: The Internet of things (BCS HCI 2013), University of Brunel, Uxbridge, U.K.&lt;br /&gt; 
+                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://ewic.bcs.org/content/ConWebDoc/51750&#34;&gt;BCS eWIC Archive&lt;/a&gt; | &lt;a href=&#34;assets/pdf/wells_2013_bcs.hci.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
+                &lt;/p&gt;&lt;/li&gt;
+
+                 &lt;li&gt;
+                 &lt;p&gt;&lt;a id=&#34;wells_2013_towards&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells, (2013), &#34;&lt;em&gt;Towards a Foundation for Comprehensive Argumentation Scheme Support in Argumentative Dialogue Games&lt;/em&gt;&#34;&lt;br /&gt;
+                 Proceedings of the 13th International Workshop on Computational Models of Natural Argument (&lt;a href=&#34;http://www.cmna.info/CMNA13&#34;&gt;CMNA13&lt;/a&gt;), pp. 68-73, Rome, Italy.                &lt;br /&gt; 
+                &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;assets/pdf/wells_2013_cmna.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
+                &lt;/p&gt;&lt;/li&gt;
+
+
+                &lt;li&gt;
+                &lt;p&gt;&lt;a id=&#34;yuan_2013_protocl&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;T. Yuan and S. Wells, (2013), &#34;&lt;em&gt;ProtOCL: Specifying Dialogue Games Using UML and OCL&lt;/em&gt;&#34;&lt;br /&gt;
+                 Proceedings of the 13th International Workshop on Computational Models of Natural Argument (&lt;a href=&#34;http://www.cmna.info/CMNA13&#34;&gt;CMNA13&lt;/a&gt;), pp. 74-85, Rome, Italy.&lt;/em&gt;&lt;br /&gt; &lt;/p&gt; 
+                 &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;assets/pdf/yuan_2013_cmna.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
+                &lt;/p&gt;&lt;/li&gt;
+
+                &lt;li&gt;
+                &lt;p&gt;&lt;a id=&#34;gabrielli_2013_codesigning&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Gabrielli, R. Maimone, P. Forbes, J. Masthoff, S. Wells, L. Primerano, G. Bo, M. Pompa, L. Haverinen, (2013), &#34;Co-Designing Motivational Features for Sustainable Urban Mobility&#34;, (2013), in proceedings of the ACM SIG-CHI Conference on Human Factors in Computing Systems (&lt;a href=&#34;http://chi2013.acm.org/&#34;&gt;CHI 2013&lt;/a&gt;).&lt;br /&gt;&lt;/p&gt; 
+                 &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;assets/pdf/gabrielli_2013_chi.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
+                &lt;/p&gt;&lt;/li&gt;
+            
+                &lt;li&gt;&lt;p&gt; &lt;a id=&#34;gabrielli_2013_exploring&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;  S. Gabrielli, R. Maimone, P. Forbes, S. Wells, (2013), &#34;Exploring Change Strategies for Sustainable Urban Mobility&#34;, (2013), in Designing Social Media for Change at the ACM SIG-CHI Conference on Human Factors in Computing Systems  (&lt;a href=&#34;http://chi2013.acm.org/&#34;&gt;CHI 2013&lt;/a&gt;).&lt;br /&gt; &lt;/p&gt; 
+                 &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://noreenkamal.files.wordpress.com/2013/03/gabrielli-et-al-final.pdf&#34;&gt;pdf&lt;/a&gt; | &lt;a href=&#34;assets/pdf/gabrielli_2013_chi.ws.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
+                &lt;/p&gt;&lt;/li&gt;
+
+                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;wells_2012_dgdl&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt; S. Wells and C. Reed, (2012),  &#34;A Domain Specific Language for Describing  Diverse Systems of Dialogue&#34;, (2012), in Journal of Applied Logic, vol. 10 (4), pp. 309–329.&lt;br /&gt; &lt;/p&gt; 
+                 &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://dx.doi.org/10.1016/j.jal.2012.09.001%20%20&#34;&gt;doi:10.1016/j.jal.2012.09.001&lt;/a&gt; | &lt;a href=&#34;http://www.sciencedirect.com/science/article/pii/S1570868312000602#FCANote&#34;&gt;pdf (paywall)&lt;/a&gt; | &lt;a href=&#34;assets/pdf/wells_2012_a.domain.specific.language.for.describing.diverse.systems.of.dialogue.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
+                &lt;/p&gt;&lt;/li&gt;
+
+                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;forbes_2012_superhub&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt; P. J. Forbes, S. Wells, J. Masthoff, H. Nguyen (2012), &#34;SUPERHUB: Integrating behaviour  change theories into a sustainable urban-mobility platform&#34;, (2012), in  Proceedings of Using Technology to Facilitate Behaviour Change and  Support Healthy, Sustainable Living @ BCS HCI 2012.&lt;br /&gt; &lt;/p&gt; 
+                 &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://ewic.bcs.org/upload/pdf/ewic_hci12_sl_paper6.pdf&#34;&gt;pdf&lt;/a&gt; | &lt;a href=&#34;assets/pdf/forbes_2012_bcs.hci.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
+                &lt;/p&gt;&lt;/li&gt;
+
+                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;reed_2011_ontology&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt; C. Reed, S. Wells, M. Snaith, K. Budzynska &amp;amp; J. Lawrence, (2011), &#34;Using an  argument ontology to develop pedagogical tool suites&#34;, (2011), in   Proceedings of the Third International Congress on Tools for Teaching  Logic (TICTTL 2011). Salamanca, Spain. Published in Lecture Notes in Computer Science       &lt;span id=&#34;book-volume&#34;&gt;Volume 6680, &lt;/span&gt; &lt;span id=&#34;copyright-year&#34;&gt;2011, &lt;/span&gt; &lt;span id=&#34;page-range&#34;&gt; pp 207-214 &lt;/span&gt;&lt;br /&gt; &lt;/p&gt; 
+                 &lt;p class=&#34;text-right&#34;&gt;[  &lt;a href=&#34;http://dx.doi.org/10.1007%2f978-3-642-21350-2_25&#34;&gt;doi:10.1007/978-3-642-21350-2_25&lt;/a&gt; | &lt;a href=&#34;http://link.springer.com/chapter/10.1007%2F978-3-642-21350-2_25&#34;&gt;pdf (paywall)&lt;/a&gt; | &lt;a href=&#34;http://www.arg.dundee.ac.uk/people/chris/publications/2011/ticttl.pdf&#34;&gt;pdf&lt;/a&gt; | &lt;a href=&#34;assets/pdf/reed_2011_ticttl.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
+                &lt;/p&gt;&lt;/li&gt;
+
+                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;reed_2010_building&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt; C. Reed, S. Wells, K. Budzynska &amp;amp; J. T. Devereux, (2010), &amp;ldquo;Building Arguments with Argumentation: The Role of Illocutionary Force in Computational Models of Argument&amp;rdquo;, in Proceedings of the Third International Conference on Computational Models of Argument (COMMA 2010). Desenzano del Garda, Italy.&lt;br /&gt; &lt;/p&gt; 
+                 &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://dx.doi.org/10.3233/978-1-60750-619-5-415&#34;&gt;doi:10.3233/978-1-60750-619-5-415&lt;/a&gt; | &lt;a href=&#34;http://ebooks.iospress.nl/publication/6050&#34;&gt;pdf (paywall)&lt;/a&gt; | &lt;a href=&#34;http://www.arg.dundee.ac.uk/~chris/publications/2010/comma2010-reed.pdf&#34;&gt;pdf&lt;/a&gt; | &lt;a href=&#34;assets/pdf/reed_2010_comma.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
+                &lt;/p&gt;&lt;/li&gt;
+
+                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;wells_2009_argument&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt; S. Wells, C. Gourlay, and C. Reed, (2009), &amp;ldquo;Argument Blogging&amp;rdquo;, in &lt;em&gt;9th International Workshop on Computational Models of Natural Argument. IJCAI 2009, Pasadena, California, U.S.&lt;/em&gt;&lt;br /&gt; &lt;/p&gt; 
+                 &lt;p class=&#34;text-right&#34;&gt;[ &lt;a href=&#34;http://www.cmna.info/CMNA9/proceedings/CMNA9-Wells%20et%20al.pdf&#34;&gt;pdf&lt;/a&gt; | &lt;a href=&#34;assets/pdf/wells_2009_cmna.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
+                &lt;/p&gt;&lt;/li&gt;
+
+                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;ravenscroft_2009_mapping&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;A. Ravenscroft, S. Wells, M. Sagar, and C. Reed, (2009), &amp;ldquo;Mapping Persuasive Dialogue Games onto Argumentation Structures&amp;rdquo;, In &lt;em&gt;Symposium on Persuasive Technology &amp;amp; Digital Behaviour Intervention&lt;/em&gt; held at the AISB Convention in Edinburgh, April 2009.&lt;br /&gt; &lt;/p&gt; 
+                 &lt;p class=&#34;text-right&#34;&gt; [ &lt;a href=&#34;http://www.aisb.org.uk/convention/aisb09/Proceedings/PERSUASIVE/FILES/WellsS.pdf&#34;&gt;pdf&lt;/a&gt; | &lt;a href=&#34;assets/pdf/ravenscroft_2009_aisb.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]&lt;p&gt;
+                &lt;/p&gt;&lt;/li&gt;
+
+                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;wells_2008_using&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells and C. Reed, (2008), &amp;ldquo;Using dialogical argument as an interface to complex debates&amp;rdquo;, in &lt;em&gt;IEEE Potentials&lt;/em&gt;, Volumne 27, No 5, pp. 26--30&lt;br /&gt; &lt;/p&gt; 
+                 &lt;p class=&#34;text-right&#34;&gt; [ &lt;a href=&#34;http://dx.doi.org/10.1109/MPOT.2008.928452&#34;&gt;doi:10.1109/MPOT.2008.928452&lt;/a&gt; | &lt;a href=&#34;http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;amp;arnumber=4625357&#34;&gt;pdf (paywall)&lt;/a&gt; | &lt;a href=&#34;assets/pdf/wells_2008_ieee.potentials.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
+                &lt;/p&gt;&lt;/li&gt;
+
+                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;C. Reed, J. Devereux, S. Wells, &amp;amp; G. Rowe, (2008), &amp;ldquo;AIF+: Dialogue in the Argument Interchange Format&amp;rdquo;, in &lt;em&gt;In A. Hunter (editor): Computational Models of Argument, Proceedings of the Second International Conference on Computational Models of Argument (COMMA 2008). Toulouse, France.&lt;/em&gt;&lt;br /&gt; &lt;/p&gt; 
+                 &lt;p class=&#34;text-right&#34;&gt; [ &lt;a href=&#34;http://ebooks.iospress.nl/publication/4199&#34;&gt;pdf (paywall)&lt;/a&gt; | &lt;a href=&#34;assets/pdf/reed_2008_aif.plus.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
+                &lt;/p&gt;&lt;/li&gt;
+
+                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells,  P. Łoziński,  M. N. Pham, (2008), &#34;&lt;span class=&#34;cit-dark-large-link&#34;&gt;Towards An Arguing Agents Competition: Architectural Considerations&lt;/span&gt;&#34; in &lt;em&gt;Proceedings of 8th CMNA (Computational Models of Natural Argument)  workshop, European Conference on Artificial Intelligence (ECAI),  University of Patras, Greece.&lt;/em&gt; &lt;br /&gt; &lt;/p&gt; 
+                 &lt;p class=&#34;text-right&#34;&gt; [ &lt;a href=&#34;http://www.cmna.info/CMNA8/programme/CMNA8-Wells-etal.pdf&#34;&gt;pdf&lt;/a&gt; | &lt;a href=&#34;assets/pdf/wells_2008_cmna.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
+                &lt;/p&gt;&lt;/li&gt;
+
+                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells and C. Reed, (2008), &amp;ldquo;MAgtALO: An Agent-Based System for Persuasive Online Interaction&amp;rdquo;, in &lt;em&gt;Symposium on Persuasive Technology held at the AISB Convention in Aberdeen, April 2008.&lt;/em&gt;&lt;br /&gt; &lt;/p&gt; 
+                 &lt;p class=&#34;text-right&#34;&gt; [ &lt;a href=&#34;assets/pdf/wells_2008_aisb.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
+                &lt;/p&gt;&lt;/li&gt;
+
+                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells and C. Reed, (2007), &amp;ldquo;MAgtALO: Using Agents, Arguments, and the Web to Explore Complex Debates&amp;rdquo;, in &lt;em&gt;Agents, Web-Services, and Ontologies: Integrated Methodologies. AWESOME 2007, Durham, U.K.&lt;/em&gt;&lt;br /&gt; &lt;/p&gt; 
+                 &lt;p class=&#34;text-right&#34;&gt; [ &lt;a href=&#34;http://awesome007.disi.unige.it/WellsEtAl-AWESOME007.pdf&#34;&gt;pdf&lt;/a&gt; | &lt;a href=&#34;assets/pdf/wells_2007_magtalo_awesome.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
+                &lt;/p&gt;&lt;/li&gt;
+
+                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;C. Reed and S. Wells, (2007), &amp;ldquo;Dialogical Argument as an Interface to Complex Debates&amp;rdquo;, in &lt;em&gt;IEEE Intelligent Systems Journal, Special Issue on Argumentation Technology&lt;/em&gt;, Volume 22, No 6, pp. 60--65&lt;br /&gt; &lt;/p&gt; 
+                 &lt;p class=&#34;text-right&#34;&gt; [ &lt;a href=&#34;http://dx.doi.org/10.1109/MIS.2007.106&#34;&gt;doi:10.1109/MIS.2007.106&lt;/a&gt; | &lt;a href=&#34;http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;amp;arnumber=4397211&#34;&gt;pdf (paywall)&lt;/a&gt; | &lt;a href=&#34;assets/pdf/reed_2007_magtalo_ieee.isj.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
+                &lt;/p&gt;&lt;/li&gt;
+
+                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;D. Kalofonos, N. Karunatillake, N. R. Jennings, T. J. Norman, C. Reed and S. Wells, (2006), &amp;ldquo;Building Agents that Plan and Argue in a Social Context&amp;rdquo;, in &lt;em&gt;Proceedings of the First International Conference on Computational Models of Argument, COMMA 2006, Liverpool, U.K.&lt;/em&gt;&lt;br /&gt; &lt;/p&gt; 
+                 &lt;p class=&#34;text-right&#34;&gt; [ &lt;a href=&#34;http://ebooks.iospress.nl/publication/2928&#34;&gt;pdf (paywall)&lt;/a&gt; | &lt;a href=&#34;assets/pdf/kalofonos_2006_comma.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
+                &lt;/p&gt;&lt;/li&gt;
+
+                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells and C. Reed, (2006), &amp;ldquo;Knowing When to Bargain&amp;rdquo;, in &lt;em&gt;1st Conference on Computational Models of Argument. COMMA 2006, Liverpool, U.K.&lt;/em&gt;&lt;br /&gt; &lt;/p&gt; 
+                 &lt;p class=&#34;text-right&#34;&gt; [ &lt;a href=&#34;http://ebooks.iospress.nl/publication/2951&#34;&gt;pdf (paywall)&lt;/a&gt; | &lt;a href=&#34;assets/pdf/wells_2006_comma.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
+                &lt;/p&gt;&lt;/li&gt;
+
+                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells and C. Reed, (2006), &amp;ldquo;Cumulativeness in Dialectical Games&amp;rdquo;, in &lt;em&gt;6th International Conference on Argumentation. ISSA 2006, Amsterdam, Netherlands&lt;/em&gt;&lt;br /&gt; &lt;/p&gt; 
+                 &lt;p class=&#34;text-right&#34;&gt; [ &lt;a href=&#34;http://dx.doi.org/10.6084/m9.figshare.156049&#34;&gt;doi:10.6084/m9.figshare.156049&lt;/a&gt; | &lt;a href=&#34;assets/pdf/wells_2006_issa.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
+                &lt;/p&gt;&lt;/li&gt;
+
+                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells and C. Reed, (2006), &amp;ldquo;Knowing When to Bargain&amp;rdquo;, in &lt;em&gt;6th International Workshop on Computational Models of Natural Argument. ECAI 2006, Riva del Garda, Italy&lt;/em&gt;&lt;br /&gt; &lt;/p&gt; 
+                 &lt;p class=&#34;text-right&#34;&gt; [ &lt;a href=&#34;cgi.csc.liv.ac.uk/~floriana/CMNA6/CMNA06Wells.pdf&#34;&gt;pdf (official)&lt;/a&gt; | &lt;a href=&#34;assets/pdf/wells_2006_cmna.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
+                &lt;/p&gt;&lt;/li&gt;    
+                
+                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells and C. Reed, (2006), &amp;ldquo;Testing Formal Dialectic&amp;rdquo;, in &lt;em&gt;Proceedings of the Second International Workshop on Argumentation in Multi Agent Systems (ArgMAS).&lt;/em&gt;, AAMAS 2005, Utrecht, Netherlands&amp;nbsp; Springer, &lt;a href=&#34;http://www.springer.com/computer/ai/book/978-3-540-36355-2&#34;&gt;Lecture Notes in Artificial Intelligence (LNAI) 4049&lt;/a&gt;.&lt;br /&gt; &lt;/p&gt; 
+                 &lt;p class=&#34;text-right&#34;&gt; [ &lt;a href=&#34;assets/pdf/wells_2005_argmas.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
+                &lt;/p&gt;&lt;/li&gt;
+
+                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells and C. Reed, (2005), &amp;ldquo;Testing Computational Dialectic&amp;rdquo;, in &lt;em&gt;5th International Workshop on Computational Models of Natural Argument. IJCAI 2005, Edinburgh, Scotland, U.K.&lt;/em&gt;&lt;br /&gt; &lt;/p&gt; 
+                 &lt;p class=&#34;text-right&#34;&gt; [ &lt;a href=&#34;assets/pdf/wells_2005_cmna.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
+                &lt;/p&gt;&lt;/li&gt;
+
+                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells and C. Reed, (2005), &amp;ldquo;A Drosophila For Computational Dialectics&amp;rdquo;, in &lt;em&gt;Fourth International Joint Conference on Autonomous Agents &amp;amp; Multi Agent Systems. AAMAS 2005&lt;/em&gt;, Utrecht, Netherlands&lt;br /&gt; &lt;/p&gt; 
+                 &lt;p class=&#34;text-right&#34;&gt; Abstract: [ &lt;a href=&#34;http://dx.doi.org/10.1145/1082473.1082724&#34;&gt;doi:10.1145/1082473.1082724&lt;/a&gt; |  &lt;a href=&#34;assets/pdf/wells_2005_aamas.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
+                 &lt;p class=&#34;text-right&#34;&gt; Poster: [ &lt;a href=&#34;https://dx.doi.org/10.6084/m9.figshare.744820.v1&#34;&gt;doi:10.6084/m9.figshare.744820.v1&lt;/a&gt; |  &lt;a href=&#34;assets/posters/wells_2005_aamas.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]          
+                &lt;/p&gt;&lt;/li&gt;
+
+                &lt;li&gt;&lt;p&gt;&lt;a id=&#34;&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;S. Wells and C. Reed, (2005), &amp;ldquo;Formal Dialectic Specification&amp;rdquo;, In I. Rahwan, P. Moraitis and C. Reed (Editors): &lt;em&gt;Proceedings of the First International Workshop on Argumentation in Multi-Agent Systems (ArgMAS) &lt;/em&gt;, AAMAS 2004, New York, NY, USA.&amp;nbsp; Springer, &lt;a href=&#34;http://www.springer.com/computer/ai/book/978-3-540-24526-1&#34;&gt;Lecture Notes in Artificial Intelligence (LNAI) 3366&lt;/a&gt;.&lt;br /&gt; &lt;/p&gt; 
+                 &lt;p class=&#34;text-right&#34;&gt; [ &lt;a href=&#34;http://www.arg.dundee.ac.uk/people/chris/publications/2005/WellsAndReed2004llncs.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
+                &lt;/p&gt;&lt;/li&gt;
+            &lt;/ol&gt;
+
+&lt;h3 id=&#34;theses-monographs&#34;&gt;Theses &amp;amp; Monographs&lt;/h3&gt;
+
+&lt;h3 id=&#34;technical-reports&#34;&gt;Technical Reports&lt;/h3&gt;
+
+&lt;h3 id=&#34;deliverables&#34;&gt;Deliverables&lt;/h3&gt;
+
+&lt;h3 id=&#34;miscellaneous&#34;&gt;Miscellaneous&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;S. Wells (2015) &amp;ldquo;Combinatorial Dialogue Games in Strategic Argumentation&amp;rdquo;, Abstract for regular paper presented at the 1st European Conference on Argumentation: Argumentation and Reasoned Action (ECA15), Lisbon, Portugal.&lt;/li&gt;
+&lt;li&gt;S. Wells &amp;amp; K. Pangbourne (2015) &amp;ldquo;Using Argumentation Within Sustainable Transport Communication&amp;rdquo;, Extended abstract for long paper presented at the 1st European Conference on Argumentation: Argumentation and Reasoned Action (ECA15), Lisbon, Portugal.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SADFace</title>
+      <link>http://localhost/~simon/arg/page/project/sadface/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://localhost/~simon/arg/page/project/sadface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simon Wells</title>
+      <link>http://localhost/~simon/arg/page/people/simon-wells/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://localhost/~simon/arg/page/people/simon-wells/</guid>
+      <description>&lt;p&gt;You can find more information at Simon&amp;rsquo;s personal &lt;a href=&#34;http://www.simonwells.org&#34;&gt;academic website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Dialogue Game Description Language</title>
+      <link>http://localhost/~simon/arg/page/project/dgdl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://localhost/~simon/arg/page/project/dgdl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>http://localhost/~simon/arg/page/admin/travel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://localhost/~simon/arg/page/admin/travel/</guid>
+      <description>
+
+&lt;h2 id=&#34;getting-to-us&#34;&gt;Getting To Us&lt;/h2&gt;
+
+&lt;p&gt;We are based on the Merchiston campus of &lt;a href=&#34;http://www.napier.ac.uk&#34;&gt;Edinburgh Napier University&lt;/a&gt; in Scotlands capital city of Edinburgh. Getting to us is easy:&lt;/p&gt;
+
+&lt;h4 id=&#34;by-road&#34;&gt;By Road&lt;/h4&gt;
+
+&lt;h4 id=&#34;by-rail&#34;&gt;By Rail&lt;/h4&gt;
+
+&lt;h4 id=&#34;by-air&#34;&gt;By Air&lt;/h4&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
