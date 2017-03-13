@@ -2,89 +2,89 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost/~simon/arg/post/2015-01-04-first-post/</loc>
+    <loc>http://146.176.251.13/post/2015-01-04-first-post/</loc>
     <lastmod>2015-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/~simon/arg/page/project/alias/</loc>
+    <loc>http://146.176.251.13/page/project/alias/</loc>
   </url>
   
   <url>
-    <loc>http://localhost/~simon/arg/</loc>
-    <lastmod>2015-01-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost/~simon/arg/page/project/adamantium/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost/~simon/arg/page/people/affiliates/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost/~simon/arg/page/project/argdb/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost/~simon/arg/page/project/argument-cartography/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost/~simon/arg/page/people/dana-khartabil/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost/~simon/arg/page/outputs/datasets/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost/~simon/arg/page/project/monkeypuzzle/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost/~simon/arg/page/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost/~simon/arg/page/people/past/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost/~simon/arg/post/</loc>
+    <loc>http://146.176.251.13/</loc>
     <lastmod>2015-01-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost/~simon/arg/page/outputs/publications/</loc>
+    <loc>http://146.176.251.13/page/project/adamantium/</loc>
   </url>
   
   <url>
-    <loc>http://localhost/~simon/arg/page/project/sadface/</loc>
+    <loc>http://146.176.251.13/page/people/affiliates/</loc>
   </url>
   
   <url>
-    <loc>http://localhost/~simon/arg/page/people/simon-wells/</loc>
+    <loc>http://146.176.251.13/page/project/argdb/</loc>
   </url>
   
   <url>
-    <loc>http://localhost/~simon/arg/page/project/dgdl/</loc>
+    <loc>http://146.176.251.13/page/project/argument-cartography/</loc>
   </url>
   
   <url>
-    <loc>http://localhost/~simon/arg/page/admin/travel/</loc>
+    <loc>http://146.176.251.13/page/people/dana-khartabil/</loc>
   </url>
   
   <url>
-    <loc>http://localhost/~simon/arg/page/admin/vacancies/</loc>
+    <loc>http://146.176.251.13/page/outputs/datasets/</loc>
   </url>
   
   <url>
-    <loc>http://localhost/~simon/arg/page/admin/collaboration/</loc>
+    <loc>http://146.176.251.13/page/project/monkeypuzzle/</loc>
+  </url>
+  
+  <url>
+    <loc>http://146.176.251.13/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://146.176.251.13/page/people/past/</loc>
+  </url>
+  
+  <url>
+    <loc>http://146.176.251.13/post/</loc>
+    <lastmod>2015-01-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://146.176.251.13/page/outputs/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>http://146.176.251.13/page/project/sadface/</loc>
+  </url>
+  
+  <url>
+    <loc>http://146.176.251.13/page/people/simon-wells/</loc>
+  </url>
+  
+  <url>
+    <loc>http://146.176.251.13/page/project/dgdl/</loc>
+  </url>
+  
+  <url>
+    <loc>http://146.176.251.13/page/admin/travel/</loc>
+  </url>
+  
+  <url>
+    <loc>http://146.176.251.13/page/admin/vacancies/</loc>
+  </url>
+  
+  <url>
+    <loc>http://146.176.251.13/page/admin/collaboration/</loc>
   </url>
   
 </urlset>

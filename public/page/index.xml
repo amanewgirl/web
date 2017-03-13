@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on ARG@ENU</title>
-    <link>http://localhost/~simon/arg/page/index.xml</link>
+    <link>http://146.176.251.13/page/index.xml</link>
     <description>Recent content in Pages on ARG@ENU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>s.wells@napier.ac.uk</managingEditor>
     <webMaster>s.wells@napier.ac.uk</webMaster>
-    <atom:link href="http://localhost/~simon/arg/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://146.176.251.13/page/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>ALIAS</title>
-      <link>http://localhost/~simon/arg/page/project/alias/</link>
+      <link>http://146.176.251.13/page/project/alias/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
-      <guid>http://localhost/~simon/arg/page/project/alias/</guid>
+      <guid>http://146.176.251.13/page/project/alias/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adamantium</title>
-      <link>http://localhost/~simon/arg/page/project/adamantium/</link>
+      <link>http://146.176.251.13/page/project/adamantium/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
-      <guid>http://localhost/~simon/arg/page/project/adamantium/</guid>
+      <guid>http://146.176.251.13/page/project/adamantium/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Affiliate Members</title>
-      <link>http://localhost/~simon/arg/page/people/affiliates/</link>
+      <link>http://146.176.251.13/page/people/affiliates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
-      <guid>http://localhost/~simon/arg/page/people/affiliates/</guid>
+      <guid>http://146.176.251.13/page/people/affiliates/</guid>
       <description>&lt;p&gt;We like to work with various folk and are actively working with&lt;/p&gt;
 
 &lt;ul&gt;
@@ -45,37 +45,37 @@
     
     <item>
       <title>ArgDB</title>
-      <link>http://localhost/~simon/arg/page/project/argdb/</link>
+      <link>http://146.176.251.13/page/project/argdb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
-      <guid>http://localhost/~simon/arg/page/project/argdb/</guid>
+      <guid>http://146.176.251.13/page/project/argdb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Argument Cartograpy</title>
-      <link>http://localhost/~simon/arg/page/project/argument-cartography/</link>
+      <link>http://146.176.251.13/page/project/argument-cartography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
-      <guid>http://localhost/~simon/arg/page/project/argument-cartography/</guid>
+      <guid>http://146.176.251.13/page/project/argument-cartography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dana Khartabil</title>
-      <link>http://localhost/~simon/arg/page/people/dana-khartabil/</link>
+      <link>http://146.176.251.13/page/people/dana-khartabil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
-      <guid>http://localhost/~simon/arg/page/people/dana-khartabil/</guid>
+      <guid>http://146.176.251.13/page/people/dana-khartabil/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Datasets</title>
-      <link>http://localhost/~simon/arg/page/outputs/datasets/</link>
+      <link>http://146.176.251.13/page/outputs/datasets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
-      <guid>http://localhost/~simon/arg/page/outputs/datasets/</guid>
+      <guid>http://146.176.251.13/page/outputs/datasets/</guid>
       <description>
 
 &lt;h4 id=&#34;sustainable-transport-communications-dataset-stcd&#34;&gt;Sustainable Transport Communications Dataset (STCD)&lt;/h4&gt;
@@ -86,19 +86,19 @@
     
     <item>
       <title>MonkeyPuzzle</title>
-      <link>http://localhost/~simon/arg/page/project/monkeypuzzle/</link>
+      <link>http://146.176.251.13/page/project/monkeypuzzle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
-      <guid>http://localhost/~simon/arg/page/project/monkeypuzzle/</guid>
+      <guid>http://146.176.251.13/page/project/monkeypuzzle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Past Members</title>
-      <link>http://localhost/~simon/arg/page/people/past/</link>
+      <link>http://146.176.251.13/page/people/past/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
-      <guid>http://localhost/~simon/arg/page/people/past/</guid>
+      <guid>http://146.176.251.13/page/people/past/</guid>
       <description>&lt;p&gt;Sometimes folk stay for a little while then move on to better things.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -113,10 +113,10 @@
     
     <item>
       <title>Publications</title>
-      <link>http://localhost/~simon/arg/page/outputs/publications/</link>
+      <link>http://146.176.251.13/page/outputs/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
-      <guid>http://localhost/~simon/arg/page/outputs/publications/</guid>
+      <guid>http://146.176.251.13/page/outputs/publications/</guid>
       <description>
 
 &lt;h3 id=&#34;papers&#34;&gt;Papers&lt;/h3&gt;
@@ -382,38 +382,38 @@
     
     <item>
       <title>SADFace</title>
-      <link>http://localhost/~simon/arg/page/project/sadface/</link>
+      <link>http://146.176.251.13/page/project/sadface/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
-      <guid>http://localhost/~simon/arg/page/project/sadface/</guid>
+      <guid>http://146.176.251.13/page/project/sadface/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simon Wells</title>
-      <link>http://localhost/~simon/arg/page/people/simon-wells/</link>
+      <link>http://146.176.251.13/page/people/simon-wells/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
-      <guid>http://localhost/~simon/arg/page/people/simon-wells/</guid>
+      <guid>http://146.176.251.13/page/people/simon-wells/</guid>
       <description>&lt;p&gt;You can find more information at Simon&amp;rsquo;s personal &lt;a href=&#34;http://www.simonwells.org&#34;&gt;academic website&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Dialogue Game Description Language</title>
-      <link>http://localhost/~simon/arg/page/project/dgdl/</link>
+      <link>http://146.176.251.13/page/project/dgdl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
-      <guid>http://localhost/~simon/arg/page/project/dgdl/</guid>
+      <guid>http://146.176.251.13/page/project/dgdl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Travel</title>
-      <link>http://localhost/~simon/arg/page/admin/travel/</link>
+      <link>http://146.176.251.13/page/admin/travel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
-      <guid>http://localhost/~simon/arg/page/admin/travel/</guid>
+      <guid>http://146.176.251.13/page/admin/travel/</guid>
       <description>
 
 &lt;h2 id=&#34;getting-to-us&#34;&gt;Getting To Us&lt;/h2&gt;
@@ -430,10 +430,10 @@
     
     <item>
       <title>Vacancies</title>
-      <link>http://localhost/~simon/arg/page/admin/vacancies/</link>
+      <link>http://146.176.251.13/page/admin/vacancies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
-      <guid>http://localhost/~simon/arg/page/admin/vacancies/</guid>
+      <guid>http://146.176.251.13/page/admin/vacancies/</guid>
       <description></description>
     </item>
     
