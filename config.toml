@@ -101,8 +101,8 @@ pygmentCodeFences = true
 
     [[menu.main]]
         parent = "projects"
-        name = "Adamantium"
-        url = "/page/project/adamantium/"
+        name = "ADAMANT"
+        url = "/page/project/adamant/"
         weight = 4
 
     [[menu.main]]
@@ -122,6 +122,12 @@ pygmentCodeFences = true
         name = "MonkeyPuzzle"
         url = "/page/project/monkeypuzzle/"
         weight = 7
+
+    [[menu.main]]
+        parent = "projects"
+        name = "Ar:Ca:De"
+        url = "/page/project/arcade/"
+        weight = 8
 
 [[menu.main]]
     name = "outputs"
