@@ -1,6 +1,6 @@
 ---
-title: The Dialogue Game Description Language
-subtitle: 
+title: DGDL 
+subtitle: The Dialogue Game Description Language
 comments: false
 ---
 
