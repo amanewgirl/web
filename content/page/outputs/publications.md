@@ -258,6 +258,4 @@ comments: false
 
 ### Miscellaneous
 
-- S. Wells (2015) "Combinatorial Dialogue Games in Strategic Argumentation", Abstract for regular paper presented at the 1st European Conference on Argumentation: Argumentation and Reasoned Action (ECA15), Lisbon, Portugal.
-- S. Wells & K. Pangbourne (2015) "Using Argumentation Within Sustainable Transport Communication", Extended abstract for long paper presented at the 1st European Conference on Argumentation: Argumentation and Reasoned Action (ECA15), Lisbon, Portugal.
 
