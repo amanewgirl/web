@@ -2,93 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/arg.napier.ac.uk/post/2015-01-04-first-post/</loc>
+    <loc>http://arg.napier.ac.uk/post/2015-01-04-first-post/</loc>
     <lastmod>2015-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/arg.napier.ac.uk/page/project/adamant/</loc>
+    <loc>http://arg.napier.ac.uk/page/project/adamant/</loc>
   </url>
   
   <url>
-    <loc>/arg.napier.ac.uk/page/project/alias/</loc>
+    <loc>http://arg.napier.ac.uk/page/project/alias/</loc>
   </url>
   
   <url>
-    <loc>/arg.napier.ac.uk/</loc>
-    <lastmod>2015-01-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/arg.napier.ac.uk/page/people/affiliates/</loc>
-  </url>
-  
-  <url>
-    <loc>/arg.napier.ac.uk/page/project/arcade/</loc>
-  </url>
-  
-  <url>
-    <loc>/arg.napier.ac.uk/page/project/argdb/</loc>
-  </url>
-  
-  <url>
-    <loc>/arg.napier.ac.uk/page/project/argument-cartography/</loc>
-  </url>
-  
-  <url>
-    <loc>/arg.napier.ac.uk/page/project/dgdl/</loc>
-  </url>
-  
-  <url>
-    <loc>/arg.napier.ac.uk/page/people/dana-khartabil/</loc>
-  </url>
-  
-  <url>
-    <loc>/arg.napier.ac.uk/page/outputs/datasets/</loc>
-  </url>
-  
-  <url>
-    <loc>/arg.napier.ac.uk/page/project/monkeypuzzle/</loc>
-  </url>
-  
-  <url>
-    <loc>/arg.napier.ac.uk/page/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/arg.napier.ac.uk/page/people/past/</loc>
-  </url>
-  
-  <url>
-    <loc>/arg.napier.ac.uk/post/</loc>
+    <loc>http://arg.napier.ac.uk/</loc>
     <lastmod>2015-01-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/arg.napier.ac.uk/page/outputs/publications/</loc>
+    <loc>http://arg.napier.ac.uk/page/people/affiliates/</loc>
   </url>
   
   <url>
-    <loc>/arg.napier.ac.uk/page/project/sadface/</loc>
+    <loc>http://arg.napier.ac.uk/page/project/arcade/</loc>
   </url>
   
   <url>
-    <loc>/arg.napier.ac.uk/page/people/simon-wells/</loc>
+    <loc>http://arg.napier.ac.uk/page/project/argdb/</loc>
   </url>
   
   <url>
-    <loc>/arg.napier.ac.uk/page/admin/travel/</loc>
+    <loc>http://arg.napier.ac.uk/page/project/argument-cartography/</loc>
   </url>
   
   <url>
-    <loc>/arg.napier.ac.uk/page/admin/vacancies/</loc>
+    <loc>http://arg.napier.ac.uk/page/project/dgdl/</loc>
   </url>
   
   <url>
-    <loc>/arg.napier.ac.uk/page/admin/collaboration/</loc>
+    <loc>http://arg.napier.ac.uk/page/people/dana-khartabil/</loc>
+  </url>
+  
+  <url>
+    <loc>http://arg.napier.ac.uk/page/outputs/datasets/</loc>
+  </url>
+  
+  <url>
+    <loc>http://arg.napier.ac.uk/page/project/monkeypuzzle/</loc>
+  </url>
+  
+  <url>
+    <loc>http://arg.napier.ac.uk/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://arg.napier.ac.uk/page/people/past/</loc>
+  </url>
+  
+  <url>
+    <loc>http://arg.napier.ac.uk/post/</loc>
+    <lastmod>2015-01-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://arg.napier.ac.uk/page/outputs/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>http://arg.napier.ac.uk/page/project/sadface/</loc>
+  </url>
+  
+  <url>
+    <loc>http://arg.napier.ac.uk/page/people/simon-wells/</loc>
+  </url>
+  
+  <url>
+    <loc>http://arg.napier.ac.uk/page/admin/travel/</loc>
+  </url>
+  
+  <url>
+    <loc>http://arg.napier.ac.uk/page/admin/vacancies/</loc>
+  </url>
+  
+  <url>
+    <loc>http://arg.napier.ac.uk/page/admin/collaboration/</loc>
   </url>
   
 </urlset>

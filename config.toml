@@ -1,4 +1,4 @@
-baseurl = "arg.napier.ac.uk"
+baseurl = "http://arg.napier.ac.uk"
 languageCode = "en-us"
 title = "ARG@ENU"
 theme = "beautifulhugo"
