@@ -8,16 +8,30 @@
     <language>en-us</language>
     <managingEditor>s.wells@napier.ac.uk</managingEditor>
     <webMaster>s.wells@napier.ac.uk</webMaster>
-    <lastBuildDate>Mon, 05 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Apr 2017 14:58:11 +0100</lastBuildDate>
     <atom:link href="http://arg.napier.ac.uk/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>First post!</title>
-      <link>http://arg.napier.ac.uk/post/2015-01-04-first-post/</link>
-      <pubDate>Mon, 05 Jan 2015 00:00:00 +0000</pubDate>
+      <title>Ar:Ca:De Games in public</title>
+      <link>http://arg.napier.ac.uk/post/2017.04.11_lovelace/</link>
+      <pubDate>Tue, 11 Apr 2017 14:58:11 +0100</pubDate>
       <author>s.wells@napier.ac.uk</author>
-      <guid>http://arg.napier.ac.uk/post/2015-01-04-first-post/</guid>
-      <description>&lt;p&gt;This is my first post, how exciting!&lt;/p&gt;
+      <guid>http://arg.napier.ac.uk/post/2017.04.11_lovelace/</guid>
+      <description>&lt;p&gt;With Argument Card Debate (Ar:Ca:De) games we are building online and offline debate games that use &amp;lsquo;Argument Cards&amp;rsquo;, representations of arguments depicted using playing cards, to support people to engage with both their own and other people&amp;rsquo;s arguments.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://arg.napier.ac.uk/img/ama.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Amantle Craviolatti recently attended the 2017 BCSWomen Lovelace Colloquium to present a poster and talk about her project with other Women in Computing. The poster can be &lt;a href=&#34;page/outputs/publications&#34;&gt;downloaded&lt;/a&gt; from our publications page&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Argumentation Research @ ENU</title>
+      <link>http://arg.napier.ac.uk/post/2017.04.01_argumentation/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://arg.napier.ac.uk/post/2017.04.01_argumentation/</guid>
+      <description>&lt;p&gt;Research into argumentation has become an increasingly hot research topic in recent years. The Argumentation Research Group at Edinburgh Napier University focusses on dialogue and strategy with forays into visualisation, tooling, datasets, and mining.&lt;/p&gt;
 </description>
     </item>
     
@@ -193,13 +207,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/page/outputs/publications/</guid>
-      <description>
+      <description>&lt;ol reversed&gt;
 
-&lt;h3 id=&#34;papers&#34;&gt;Papers&lt;/h3&gt;
-
-&lt;ol reversed&gt;
-
-                
+    &lt;li&gt;
+        &lt;p&gt;&lt;a id=&#34;craviolatti_2017_lovelace&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;A. Craviolatti (2017) &#34;&lt;em&gt;Ar:Ca:De - Argument Card Debate Games for Critical Thinking&lt;/em&gt;&#34;&lt;br /&gt;
+        &lt;a href=&#34;https://www.aber.ac.uk/en/cs/engagement/lovelace-colloquium/&#34;&gt;BCSWomen Lovelace Colloquium 2017&lt;/a&gt;, Aberystwith, Wales&lt;br /&gt; 
+        &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;Poster: [ &lt;a href=&#34;http://arg.napier.ac.uk/assets/posters/craviolatti_2017_lovelace.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]&lt;/p&gt;
+    &lt;/li&gt;                
 
 
                 &lt;li&gt;
@@ -440,14 +454,6 @@
                  &lt;p class=&#34;text-right&#34;&gt; [ &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/wells_2004_argmas.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
                 &lt;/p&gt;&lt;/li&gt;
             &lt;/ol&gt;
-
-&lt;h3 id=&#34;theses-monographs&#34;&gt;Theses &amp;amp; Monographs&lt;/h3&gt;
-
-&lt;h3 id=&#34;technical-reports&#34;&gt;Technical Reports&lt;/h3&gt;
-
-&lt;h3 id=&#34;deliverables&#34;&gt;Deliverables&lt;/h3&gt;
-
-&lt;h3 id=&#34;miscellaneous&#34;&gt;Miscellaneous&lt;/h3&gt;
 </description>
     </item>
     
@@ -458,18 +464,6 @@
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/page/project/sadface/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Simon Wells</title>
-      <link>http://arg.napier.ac.uk/page/people/simon-wells/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>s.wells@napier.ac.uk</author>
-      <guid>http://arg.napier.ac.uk/page/people/simon-wells/</guid>
-      <description>&lt;p&gt;You can find more information at Simon&amp;rsquo;s personal &lt;a href=&#34;http://www.simonwells.org&#34;&gt;academic website&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Simon Wells is a lecturer in the School of Computing at Edinburgh Napier University. His research interests lie generally in Artificial Intelligence with a specific focus on reasoning, decision-making, and strategic interaction achieved via formal and applied argumentation-based techniques. Generally, he is interested in how argumentation can be used to understand the world, resolve conflicts, and influence others. He leads the Argumentation Research group (&lt;a href=&#34;http://arg.napier.ac.uk&#34;&gt;ARG@ENU&lt;/a&gt;) which develops argument-mining, dialogue management, and behaviour change tools.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

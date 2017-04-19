@@ -182,13 +182,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>s.wells@napier.ac.uk</author>
       <guid>http://arg.napier.ac.uk/page/outputs/publications/</guid>
-      <description>
+      <description>&lt;ol reversed&gt;
 
-&lt;h3 id=&#34;papers&#34;&gt;Papers&lt;/h3&gt;
-
-&lt;ol reversed&gt;
-
-                
+    &lt;li&gt;
+        &lt;p&gt;&lt;a id=&#34;craviolatti_2017_lovelace&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;A. Craviolatti (2017) &#34;&lt;em&gt;Ar:Ca:De - Argument Card Debate Games for Critical Thinking&lt;/em&gt;&#34;&lt;br /&gt;
+        &lt;a href=&#34;https://www.aber.ac.uk/en/cs/engagement/lovelace-colloquium/&#34;&gt;BCSWomen Lovelace Colloquium 2017&lt;/a&gt;, Aberystwith, Wales&lt;br /&gt; 
+        &lt;/p&gt; &lt;p class=&#34;text-right&#34;&gt;Poster: [ &lt;a href=&#34;http://arg.napier.ac.uk/assets/posters/craviolatti_2017_lovelace.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]&lt;/p&gt;
+    &lt;/li&gt;                
 
 
                 &lt;li&gt;
@@ -429,14 +429,6 @@
                  &lt;p class=&#34;text-right&#34;&gt; [ &lt;a href=&#34;http://arg.napier.ac.uk/assets/papers/wells_2004_argmas.pdf&#34;&gt;pdf (eprint)&lt;/a&gt; ]
                 &lt;/p&gt;&lt;/li&gt;
             &lt;/ol&gt;
-
-&lt;h3 id=&#34;theses-monographs&#34;&gt;Theses &amp;amp; Monographs&lt;/h3&gt;
-
-&lt;h3 id=&#34;technical-reports&#34;&gt;Technical Reports&lt;/h3&gt;
-
-&lt;h3 id=&#34;deliverables&#34;&gt;Deliverables&lt;/h3&gt;
-
-&lt;h3 id=&#34;miscellaneous&#34;&gt;Miscellaneous&lt;/h3&gt;
 </description>
     </item>
     

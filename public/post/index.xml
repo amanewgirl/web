@@ -8,16 +8,30 @@
     <language>en-us</language>
     <managingEditor>s.wells@napier.ac.uk</managingEditor>
     <webMaster>s.wells@napier.ac.uk</webMaster>
-    <lastBuildDate>Mon, 05 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Apr 2017 14:58:11 +0100</lastBuildDate>
     <atom:link href="http://arg.napier.ac.uk/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>First post!</title>
-      <link>http://arg.napier.ac.uk/post/2015-01-04-first-post/</link>
-      <pubDate>Mon, 05 Jan 2015 00:00:00 +0000</pubDate>
+      <title>Ar:Ca:De Games in public</title>
+      <link>http://arg.napier.ac.uk/post/2017.04.11_lovelace/</link>
+      <pubDate>Tue, 11 Apr 2017 14:58:11 +0100</pubDate>
       <author>s.wells@napier.ac.uk</author>
-      <guid>http://arg.napier.ac.uk/post/2015-01-04-first-post/</guid>
-      <description>&lt;p&gt;This is my first post, how exciting!&lt;/p&gt;
+      <guid>http://arg.napier.ac.uk/post/2017.04.11_lovelace/</guid>
+      <description>&lt;p&gt;With Argument Card Debate (Ar:Ca:De) games we are building online and offline debate games that use &amp;lsquo;Argument Cards&amp;rsquo;, representations of arguments depicted using playing cards, to support people to engage with both their own and other people&amp;rsquo;s arguments.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://arg.napier.ac.uk/img/ama.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Amantle Craviolatti recently attended the 2017 BCSWomen Lovelace Colloquium to present a poster and talk about her project with other Women in Computing. The poster can be &lt;a href=&#34;page/outputs/publications&#34;&gt;downloaded&lt;/a&gt; from our publications page&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Argumentation Research @ ENU</title>
+      <link>http://arg.napier.ac.uk/post/2017.04.01_argumentation/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://arg.napier.ac.uk/post/2017.04.01_argumentation/</guid>
+      <description>&lt;p&gt;Research into argumentation has become an increasingly hot research topic in recent years. The Argumentation Research Group at Edinburgh Napier University focusses on dialogue and strategy with forays into visualisation, tooling, datasets, and mining.&lt;/p&gt;
 </description>
     </item>
     
