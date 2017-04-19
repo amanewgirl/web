@@ -4,11 +4,13 @@ subtitle: Just some of our outputs
 comments: false
 ---
 
-### Papers 
-
 <ol reversed>
 
-                
+    <li>
+        <p><a id="craviolatti_2017_lovelace" style="visibility: hidden"></a>A. Craviolatti (2017) "<em>Ar:Ca:De - Argument Card Debate Games for Critical Thinking</em>"<br />
+        <a href="https://www.aber.ac.uk/en/cs/engagement/lovelace-colloquium/">BCSWomen Lovelace Colloquium 2017</a>, Aberystwith, Wales<br /> 
+        </p> <p class="text-right">Poster: [ <a href="/assets/posters/craviolatti_2017_lovelace.pdf">pdf (eprint)</a> ]</p>
+    </li>                
 
 
                 <li>
@@ -249,13 +251,4 @@ comments: false
                  <p class="text-right"> [ <a href="/assets/papers/wells_2004_argmas.pdf">pdf (eprint)</a> ]
                 </p></li>
             </ol>
-
-### Theses & Monographs
-
-### Technical Reports
-
-### Deliverables
-
-### Miscellaneous
-
 
