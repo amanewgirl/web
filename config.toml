@@ -9,7 +9,7 @@ pygmentCodeFences = true
 #googleAnalytics = "XXX"
 
 [Params]
-  subtitle = "Argumentation Research Group @ Edinburgh Napier University"
+  subtitle = "Argumentation Research @ Edinburgh Napier University"
   logo = "img/arg_icon_2.png"
   favicon = "ico/favicon.ico"
   dateFormat = "January 2, 2006"
