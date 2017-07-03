@@ -7,6 +7,13 @@ comments: false
 <ol reversed>
 
     <li>
+                 <p><a id="wells_2017_eca" style="visibility: hidden"></a>S. Wells (2017) "<em>The role of faulty inferences in interrogation dialogues</em>"<br />
+                 Abstract for poster presented at the 2nd European Conference on Argumentation: Argumentation and Inference (<a href="http://ecargument.org/">ECA17</a>), Fribourg, Switzerland.<br /> 
+                </p> <p class="text-right">[ <a href="/assets/abstracts/wells_2017_eca.pdf">pdf</a> ] </p>
+    </li>
+
+
+    <li>
                  <p><a id="pangbourne_2017_eca" style="visibility: hidden"></a>K. Pangbourne, A. Baker-Graham, & S. Wells (2017) "<em>The Role of Inference in Constructing, Communicating and Sustaining Behaviour Change Arguments</em>"<br />
                  Abstract for poster presented at the 2nd European Conference on Argumentation: Argumentation and Inference (<a href="http://ecargument.org/">ECA17</a>), Fribourg, Switzerland.<br /> 
                 </p> <p class="text-right">Abstract: [ <a href="/assets/abstracts/pangbourne_2017_eca.pdf">pdf</a> ] </p>
