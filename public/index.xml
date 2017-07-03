@@ -138,14 +138,15 @@
 
 &lt;h4 id=&#34;sustainable-transport-communications-dataset-stcd&#34;&gt;Sustainable Transport Communications Dataset (STCD)&lt;/h4&gt;
 
-&lt;p&gt;This dataset is under development to support research in behaviour change for sustainable transport. It has been reported upon in the following publications:&lt;/p&gt;
+&lt;p&gt;This dataset is under continuous development to support research in behaviour change for sustainable transport and to provide an exemplar of practise in developing datasets to underpin reproducible &amp;amp; replicable Computer Science research. It has been reported upon in the following publications:&lt;/p&gt;
 
 &lt;ul&gt;
+&lt;li&gt;(2017) &lt;a href=&#34;http://arg.napier.ac.uk/page/outputs/publications/#pangbourne_2017_eca&#34;&gt;Abstract presented at the 2nd European Conference on Argumentaion&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;(2016) &lt;a href=&#34;http://arg.napier.ac.uk/page/outputs/publications/#wells_2016_sustainable&#34;&gt;Studies in Logic and Argumentation 62, Chapter 34&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;(2015) &lt;a href=&#34;http://arg.napier.ac.uk/page/outputs/publications/#wells_2015_sustainable&#34;&gt;Abstract presented at the 1st European Conference on Argumentation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;The dataset itself is stored in a Git repository and is available via the &lt;a href=&#34;http://github.com&#34;&gt;STCD website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The dataset itself is stored in a Git repository and is available via the &lt;a href=&#34;https://github.com/ARG-ENU/STCD&#34;&gt;STCD website&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;climate-change-argument-dataset-ccad&#34;&gt;Climate Change Argument Dataset (CCAD)&lt;/h4&gt;
 
