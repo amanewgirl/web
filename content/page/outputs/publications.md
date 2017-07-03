@@ -7,6 +7,12 @@ comments: false
 <ol reversed>
 
     <li>
+        <p><a id="douglas_2017_monkeypuzzle" style="visibility: hidden"></a>S. Wells & J. Douglas (2017) "<em>Monkeypuzzle: Towards Next Generation, Free & Open-Source, Argument Analysis Tools</em>"<br />
+                 Proceedings of the 17th International Workshop on Computation Models of Natural Argument(<a href="http://www.cmna.info/CMNA17">CMNA17</a>), London, U.K.<br /> 
+        </p> <p class="text-right">[ <a href="assets/papers/douglas_2017_cmna.pdf">pdf (eprint)</a> ]</p>
+    </li>
+
+    <li>
         <p><a id="craviolatti_2017_lovelace" style="visibility: hidden"></a>A. Craviolatti (2017) "<em>Ar:Ca:De - Argument Card Debate Games for Critical Thinking</em>"<br />
         <a href="https://www.aber.ac.uk/en/cs/engagement/lovelace-colloquium/">BCSWomen Lovelace Colloquium 2017</a>, Aberystwith, Wales<br /> 
         </p> <p class="text-right">Poster: [ <a href="/assets/posters/craviolatti_2017_lovelace.pdf">pdf (eprint)</a> ]</p>
