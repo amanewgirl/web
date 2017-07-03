@@ -7,6 +7,23 @@ comments: false
 <ol reversed>
 
     <li>
+                 <p><a id="pangbourne_2017_eca" style="visibility: hidden"></a>K. Pangbourne, A. Baker-Graham, & S. Wells (2017) "<em>The Role of Inference in Constructing, Communicating and Sustaining Behaviour Change Arguments</em>"<br />
+                 Abstract for poster presented at the 2nd European Conference on Argumentation: Argumentation and Inference (<a href="http://ecargument.org/">ECA17</a>), Fribourg, Switzerland.<br /> 
+                </p> <p class="text-right">Abstract: [ <a href="assets/abstracts/pangbourne_2017_eca.pdf">pdf</a> ] </p>
+                </p> <p class="text-right">Poster: [ <a href="https://doi.org/10.6084/m9.figshare.5146153.v1">doi:10.6084/m9.figshare.5146153.v1</a> | <a href="assets/posters/pangbourne_2017_eca.pdf">pdf (eprint)</a> ]</p>
+
+            </li>
+
+
+            <li>
+                 <p><a id="khartabil_2017_eca" style="visibility: hidden"></a>D. Khartabil & S. Wells (2017) "<em>Mapping Increasingly Large Networks of Argumentative Inferences</em>"<br />
+                 Abstract for poster presented at the 2nd European Conference on Argumentation: Argumentation and Inference (<a href="http://ecargument.org/">ECA17</a>), Fribourg, Switzerland.<br /> 
+                </p> <p class="text-right">Abstract: [ <a href="assets/abstracts/khartabil_2017_eca.pdf">pdf</a> ] </p>
+                </p> <p class="text-right">Poster: [ <a href="https://doi.org/10.6084/m9.figshare.5146150.v1">doi:10.6084/m9.figshare.5146150.v1</a> | <a href="assets/posters/khartabil_2017_eca.pdf">pdf (eprint)</a> ]</p>
+                </li>
+
+
+    <li>
         <p><a id="douglas_2017_monkeypuzzle" style="visibility: hidden"></a>S. Wells & J. Douglas (2017) "<em>Monkeypuzzle: Towards Next Generation, Free & Open-Source, Argument Analysis Tools</em>"<br />
                  Proceedings of the 17th International Workshop on Computation Models of Natural Argument(<a href="http://www.cmna.info/CMNA17">CMNA17</a>), London, U.K.<br /> 
         </p> <p class="text-right">[ <a href="assets/papers/douglas_2017_cmna.pdf">pdf (eprint)</a> ]</p>
