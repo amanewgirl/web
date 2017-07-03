@@ -8,8 +8,48 @@
     <language>en-us</language>
     <managingEditor>s.wells@napier.ac.uk</managingEditor>
     <webMaster>s.wells@napier.ac.uk</webMaster>
-    <lastBuildDate>Tue, 11 Apr 2017 14:58:11 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jun 2017 14:58:11 +0100</lastBuildDate>
     <atom:link href="http://arg.napier.ac.uk/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Poster Presentation on Argument Visualisation at Scale</title>
+      <link>http://arg.napier.ac.uk/post/2017.06.23_eca_dana/</link>
+      <pubDate>Fri, 23 Jun 2017 14:58:11 +0100</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://arg.napier.ac.uk/post/2017.06.23_eca_dana/</guid>
+      <description>&lt;p&gt;Dana Khartabil presented a poster at the Second European Conference on Argumentation based upon her Ph.D research. Briefly, we are interested in the tools that are needed to usefully explore increasingly larger datasets of analysed argumentation, whether this comes from hand-analysed datasets like the &lt;a href=&#34;http://arg.napier.ac.uk/page/outputs/datasets/#stcd&#34;&gt;STCD&lt;/a&gt;. This poster forms parrt of the wider &lt;a href=&#34;http://arg.napier.ac.uk/page/project/argument-cartography/&#34;&gt;Argument Cartography&lt;/a&gt; theme.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://arg.napier.ac.uk/img/dana_2017_eca.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SHORT ABSTRACT:&lt;/strong&gt; Argument diagramming has become a standard tool for visualising and exploring the structure of arguments and aiding in their analysis. The advent of digital technologies has lead to increasingly large datasets of analysed argument which can stretch the capabilities of traditional argument diagramming techniques and tools. We report on work to develop new argument visualisation techniques, computational implementations, that aim to support visualisation of arguments at scale, with ad hoc display and filtering of meta-data.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://arg.napier.ac.uk/page/outputs/publications/#khartabil_2017_eca&#34;&gt;Bibliographic Information&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://arg.napier.ac.uk/assets/abstracts/khartabil_2017_eca.pdf&#34;&gt;Abstract (PDF)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.6084/m9.figshare.5146150.v1&#34;&gt;Poster (Figshare)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Poster Presentation on Behaviour Change Arguments</title>
+      <link>http://arg.napier.ac.uk/post/2017.06.23_eca_kate/</link>
+      <pubDate>Fri, 23 Jun 2017 14:58:11 +0100</pubDate>
+      <author>s.wells@napier.ac.uk</author>
+      <guid>http://arg.napier.ac.uk/post/2017.06.23_eca_kate/</guid>
+      <description>&lt;p&gt;Kate Pangbourne presented a poster at the Second European Conference on Argumentation based upon our joint research into behaviour change campaigns and its associated argumentative practises. Briefly, we are interested in the kinds of arguments that are used in behaviour change campaigns from the Sustainable Transport Domain. This builds on work in to the Sustainable Transport Communication Dataset (&lt;a href=&#34;http://arg.napier.ac.uk/page/outputs/datasets/#stcd&#34;&gt;STCD&lt;/a&gt;) theme.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://arg.napier.ac.uk/img/kate_2017_eca.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SHORT ABSTRACT:&lt;/strong&gt; Poor communication can undermine the preparatory work, conducted over long periods,  to construct favourable conditions for a major societal shift in behaviour. We examine the inferences that the designers of behaviour change interventions aim to produce in their target audience and the mismatch that can occur when interventions are deployed. Additionally we explore the related role and complicating factors that social media and digital technologies bring which can cause persuasive public communication to misfire.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://arg.napier.ac.uk/page/outputs/publications/#pangbourne_2017_eca&#34;&gt;Bibliographic Information&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://arg.napier.ac.uk/assets/abstracts/pangbourne_2017_eca.pdf&#34;&gt;Abstract (PDF)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.6084/m9.figshare.5146153.v1&#34;&gt;Poster (Figshare)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Ar:Ca:De Games in public</title>

@@ -113,6 +113,8 @@
 
 &lt;h4 id=&#34;sustainable-transport-communications-dataset-stcd&#34;&gt;Sustainable Transport Communications Dataset (STCD)&lt;/h4&gt;
 
+&lt;p&gt;&lt;a id=&#34;stcd&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+
 &lt;p&gt;This dataset is under continuous development to support research in behaviour change for sustainable transport and to provide an exemplar of practise in developing datasets to underpin reproducible &amp;amp; replicable Computer Science research. It has been reported upon in the following publications:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -124,6 +126,8 @@
 &lt;p&gt;The dataset itself is stored in a Git repository and is available via the &lt;a href=&#34;https://github.com/ARG-ENU/STCD&#34;&gt;STCD website&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;climate-change-argument-dataset-ccad&#34;&gt;Climate Change Argument Dataset (CCAD)&lt;/h4&gt;
+
+&lt;p&gt;&lt;a id=&#34;ccad&#34; style=&#34;visibility: hidden&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This dataset has been developed to support research into visualisation of large-scale argument datasets. A goal in assembling this dataset was to develop a single, cohesive, large-scale dataset for a specific contentious real-world domain. The dataset is used in the &lt;a href=&#34;http://arg.napier.ac.uk/page/project/argument-cartography/&#34;&gt;Argument Cartography&lt;/a&gt; project.&lt;/p&gt;
 </description>
