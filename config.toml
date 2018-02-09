@@ -1,6 +1,6 @@
-baseurl = "http://arg.napier.ac.uk"
+baseurl = "http://amanewgirl.github.io"
 languageCode = "en-us"
-title = "ARG@ENU"
+title = "Arcade"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
@@ -9,7 +9,7 @@ pygmentCodeFences = true
 #googleAnalytics = "XXX"
 
 [Params]
-  subtitle = "Argumentation Research @ Edinburgh Napier University"
+  subtitle = "Argumentation Card Games"
   logo = "img/arg_icon_2.png"
   favicon = "ico/favicon.ico"
   dateFormat = "January 2, 2006"
@@ -29,11 +29,11 @@ pygmentCodeFences = true
 
 [Author]
   name = ""
-  email = "s.wells@napier.ac.uk"
+  email = "40071697@live.napier.ac.uk"
 #  facebook = "username"
 #  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
-  github = "ARG-ENU"
-  twitter = "simonwells"
+  github = "amanewgirl"
+#  twitter = "simonwells"
 #  reddit = "username"
 #  linkedin = "username"
 #  xing = "username"
