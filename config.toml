@@ -1,4 +1,4 @@
-baseurl = "http://amanewgirl.github.io"
+baseurl = "http://amanewgirl.github.io/arcade"
 languageCode = "en-us"
 title = "Arcade"
 theme = "beautifulhugo"
