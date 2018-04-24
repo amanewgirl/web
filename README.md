@@ -1,5 +1,5 @@
 # web
-This is Ar:Ca:De, an argumentation game for critical thinking
+These are the Github pages for Ar:Ca:De, an argumentation game for critical thinking. For the Flask project, see https://github.com/amanewgirl/UNI/
 
 What is it?
 ----------
@@ -9,7 +9,7 @@ This python and github pages application is the output of my 4th year Honours pr
 
 The Latest Version
 ------------------
-This is version 1. Future version will be forked here on GitHub until future notice.
+This is version 1 of the Arcade Github pages.Future versions of the application will be forked here on https://github.com/amanewgirl/UNI/until future notice.
 
 Documentation
 -------------
@@ -18,7 +18,7 @@ https://amanewgirl.github.io/web/
 
 Installation
 ------------
-To view, installation is not neccessary, simply go to https://amanewgirl.github.io/web/
+To view, installation is not neccessary, simply go to https://amanewgirl.github.io/web/  for the Heroku hosted version of the flask app or clone https://github.com/amanewgirl/UNI/  and see readme.
 
 
 
