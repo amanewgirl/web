@@ -18,7 +18,7 @@ https://amanewgirl.github.io/web/
 
 Installation
 ------------
-To view, installation is not neccessary, simply go to https://amanewgirl.github.io/web/  for the Heroku hosted version of the flask app or clone https://github.com/amanewgirl/UNI/  and see readme.
+To view, installation is not neccessary, simply go to https://amanewgirl.github.io/web/  for the Heroku hosted version of the flask app or see readme at https://github.com/amanewgirl/UNI/  
 
 
 
